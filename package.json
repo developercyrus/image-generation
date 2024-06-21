@@ -1,5 +1,8 @@
 {
   "name": "sdxl",
   "version": "1.0.0",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+      "deploy": "wrangler deploy",
+  }
 }
